@@ -211,7 +211,7 @@ export default function AboutPage() {
           </a>
 
           <a
-            href="/Muhammad_Muneeb_Resume.docx"
+            href="/Muhammad_Muneeb_Resume.pdf"
             download
             className="group flex items-center justify-between gap-4 rounded-3xl bg-white border border-ink-900/[0.06] p-6 card-hover"
           >

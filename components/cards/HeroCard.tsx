@@ -40,7 +40,7 @@ export default function HeroCard() {
             See selected work
           </Link>
           <a
-            href="/Muhammad_Muneeb_Resume.docx"
+            href="/Muhammad_Muneeb_Resume.pdf"
             download
             className="group inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white border border-ink-900/10 text-ink-900 hover:border-ink-900/30 transition-colors"
           >
